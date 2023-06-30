@@ -38,3 +38,5 @@ Run for 20 epochs with LR of 0.01 and Batch size of 512
 
 ###Metrics
 ![Training Metrics](image.png)
+
+This is running in remote
